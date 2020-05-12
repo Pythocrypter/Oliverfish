@@ -1,19 +1,21 @@
-# Weeman - http server for phishing
+# Weeman-update-Oliver - http server for phishing
 
-This is a copy of the original https://github.com/Hypsurus/weeman repository because the complete account was removed. All credits goes to Hypsurus and the constributers of this project.
+ https://github.com/Hypsurus/weeman.git - starter repository
 
 HTTP server for phishing in python.
-Version 1.7.1 is the last and latest version for weeman.
+Version weeman 1.7.5 - user update
 
 # Requirements
 
 * Python 2.7
+* Python 3.6+
 
 # Platforms
 
 * Linux
-* Mac
 
-# Copying
+* Termux
 
-See 'LICENSE' and lib/bs4/COPYING.txt
+
+
+
